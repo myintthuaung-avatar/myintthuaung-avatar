@@ -7,3 +7,6 @@ I'm a passionate Software Developer experienced in C#,ASP.NET Core,MVC, Restfull
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=myintthuaung-avatar&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=myintthuaung-avatar&theme=algolia&utcOffset=8)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myintthuaung-avatar)](https://github.com/myintthuaung-avatar/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
