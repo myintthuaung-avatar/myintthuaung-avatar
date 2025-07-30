@@ -1,5 +1,4 @@
 👋  Hi There! I'm Myint Thu Aung
-
 I'm a passionate Software Developer experienced in C#,ASP.NET Core,MVC, RestfullAPI, VueJS with around 6 years of coding experience.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=myintthuaung-avatar&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=myintthuaung-avatar&theme=algolia)
